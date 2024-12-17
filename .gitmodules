@@ -1,0 +1,6 @@
+[submodule "codecove/themes/ananke"]
+	path = codecove/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "codecove/themes/PaperMod"]
+	path = codecove/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
