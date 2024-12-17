@@ -1,0 +1,4 @@
+baseURL = 'https://codecove.uk/'
+languageCode = 'en-gb'
+title = 'Code Cove'
+theme = 'PaperMod'
