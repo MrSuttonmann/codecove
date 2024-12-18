@@ -3,3 +3,4 @@ languageCode = 'en-gb'
 title = 'Code Cove'
 theme = 'PaperMod'
 sectionPagesMenu = "main"
+enableEmoji = true
