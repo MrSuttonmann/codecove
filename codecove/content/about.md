@@ -16,7 +16,7 @@ Back then, my development style then was... let's say "adventurous". I coded ove
 * No syntax highlighting
 * No intellisense
 * No debugging tools
+* No source control
 * **And worst of all, no dark mode**
 
 Yes, I willingly lived like this. The horror! Looking back, it’s a wonder I didn’t scare myself off coding entirely.
-
