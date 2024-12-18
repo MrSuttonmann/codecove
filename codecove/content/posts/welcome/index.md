@@ -1,6 +1,5 @@
 +++
 date = '2024-12-18T13:53:38Z'
-draft = true
 title = 'The Beginnings'
 kind = 'page'
 +++
